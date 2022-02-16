@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Samurai Swords
 uid: 96ad3ca8-7634-fc09-07f4-09a275892ca2
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Clocks and Longitude
 uid: 160bca93-f3e8-a2ca-883d-76b118a8b3c9
 ---

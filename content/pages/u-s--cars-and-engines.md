@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: U.S. Cars and Engines
 uid: dfc8d196-5c7b-aeea-171b-63a69c19d7dd
 ---

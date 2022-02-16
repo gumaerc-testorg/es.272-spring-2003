@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Chinese Cooking
 uid: 6d6fc1f9-64f9-8692-90e2-d22668206f68
 ---

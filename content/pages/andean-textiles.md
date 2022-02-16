@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Andean Textiles
 uid: f604a998-74c4-4247-4e60-4706d725eb18
 ---
