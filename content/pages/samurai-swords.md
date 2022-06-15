@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the Samurai Swords module, its
+  readings with full citations and questions, and a lab exercise.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Samurai Swords
@@ -56,7 +58,7 @@ Suzuki, Daisetz. "Zen and Swordsmanship I." Chapter V in _Zen and Japanese Cultu
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q01))
+({{% resource_link ed1aa1dc-f6f8-c573-e757-4a6f4d3b1c3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +73,7 @@ The katana
 Kapp, Leon, Hiroko Kapp, and Yoshindo Yoshihara. "A Craft Reborn," and "The Sword." _The Craft of the Japanese Sword_. New York, NY: Kodansha International, 1987, pp. 17-27, 53-55 and 61-94. ISBN: 9780870117985.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q02))
+({{% resource_link bbf7df8d-0e14-3004-3368-c5e564049b58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ Storry, Richard. "The Samurai Emerges." _The Way of the Samurai_. London, Englan
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q03))
+({{% resource_link 0d6cbd25-3cbb-833d-b372-3814e825f035 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Tsunemoto, Tamamoto. _Hagakure: The Book of the Samurai_. Vol. I. Tokyo, Japan: 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q04))
+({{% resource_link ba8f43fd-4e7d-5db7-3e66-65b45b69efd2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ Please read one of:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q05))
+({{% resource_link d6adb4cd-2f04-7930-3e2e-04e19b55ba36 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +168,7 @@ Please read one of:
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q06))
+({{% resource_link 2fc164af-75ba-82b8-2c97-39c500269094 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ Giving up the gun
 Perrin, Noel. Chapters 1-4 in _Giving Up the Gun: Japan's Reversion to the Sword_. Boston, MA: D. R. Gordine, 1988. ISBN: 9780879237738.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q07))
+({{% resource_link efb751bf-7bea-c289-37b9-ea06e54d7aeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +204,7 @@ Sadler, A. L. "The Legacy of Ieyasu." In _The Maker of Modern Japan: The Life of
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q08))
+({{% resource_link c0880cda-c76d-22fe-0080-d971e47852be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

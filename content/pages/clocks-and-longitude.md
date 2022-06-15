@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the Clocks & Longitude module,
+  its readings with full citations and questions, and several lab exercises.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Clocks and Longitude
@@ -50,7 +52,7 @@ Bruton, Eric. "The Time at Sea." Chapter V in _The History of Clocks and Watches
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q11))
+({{% resource_link fca93713-b9ae-2a90-f104-67f093d9f796 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

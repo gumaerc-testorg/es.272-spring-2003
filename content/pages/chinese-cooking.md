@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the Chinese Cooking module,
+  its readings with full citations and questions, and a lab exercise.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Chinese Cooking
@@ -50,7 +52,7 @@ Hucker, Charles O. Introduction to _China's Imperial Past: An Introduction to Ch
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q09))
+({{% resource_link 9a4344fe-7f2e-3b80-38a8-c90714eafaef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +73,7 @@ Chang, K. C. Introduction to _Food in Chinese Culture: Anthropological and Histo
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q10))
+({{% resource_link 4e3da172-ef91-d984-7b1a-bd6d111c0d85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

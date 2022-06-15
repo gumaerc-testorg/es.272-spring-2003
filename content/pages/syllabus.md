@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, format,
+  background, structure, requirements, grading, and the schedule of topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -118,7 +120,7 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-[**The Samurai Sword and Blacksmithing**]({{< baseurl >}}/pages/samurai-swords)
+{{% resource_link 96ad3ca8-7634-fc09-07f4-09a275892ca2 "**The Samurai Sword and Blacksmithing**" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +198,7 @@ The Tokugawa state
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-[**Chinese Cooking and Food**]({{< baseurl >}}/pages/chinese-cooking)
+{{% resource_link 6d6fc1f9-64f9-8692-90e2-d22668206f68 "**Chinese Cooking and Food**" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +222,7 @@ The interplay between Chinese food and culture
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-[**John Harrison and Clocks**]({{< baseurl >}}/pages/clocks-and-longitude)
+{{% resource_link 160bca93-f3e8-a2ca-883d-76b118a8b3c9 "**John Harrison and Clocks**" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +246,7 @@ Clock design issues and engineering
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-[**Andean Weaving**]({{< baseurl >}}/pages/andean-textiles)
+{{% resource_link f604a998-74c4-4247-4e60-4706d725eb18 "**Andean Weaving**" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +288,7 @@ Textiles and their functions
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-[**Automobiles and Engines**]({{< baseurl >}}/pages/u.s.-cars-and-engines)
+{{% resource_link dfc8d196-5c7b-aeea-171b-63a69c19d7dd "**Automobiles and Engines**" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

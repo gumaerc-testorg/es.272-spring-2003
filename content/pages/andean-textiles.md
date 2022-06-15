@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the Andean Textiles module,
+  its readings with full citations and questions, and several lab exercises.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Andean Textiles
@@ -50,7 +52,7 @@ Malpass, Michael A. "Politics and Society." Chapter 2 in _Daily Life in the Inca
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q13))
+({{% resource_link e3658681-bf1d-fc31-34f1-04340ee72317 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +67,7 @@ Quipus
 Ascher, Marcia, and Robert Ascher. "How to Make a Quipu," "The Quipumaker," and "A Piece of String." Chapter 2, 4, and 8 in _Code of the Quipu: A Study in Media, Mathematics, and Culture_. Ann Arbor, MI: University of Michigan Press, 1981. ISBN: 9780472063253.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q14))
+({{% resource_link 52ffc469-188b-6779-48af-24793f619b56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

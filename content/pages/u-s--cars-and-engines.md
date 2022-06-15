@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an introduction to the U.S. Cars & Engines module,
+  its readings with full citations and questions, and a lab exercise.
 learning_resource_types: []
 ocw_type: CourseSection
 title: U.S. Cars and Engines
@@ -58,7 +60,7 @@ Cowam, Ruth Schwartz. "Automobiles and Automobility." Chapter 10 in _A Social Hi
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q17))
+({{% resource_link 7e85ebdc-2e53-5e7e-42db-577d3aa0ab87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Revell, Inc. "How an Auto Engine Works: An Illustrated Guide to the Visible V-8 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q18))
+({{% resource_link b08fa306-0c8f-7ab9-7214-dd10b72c4b4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ Suburbanization
 Jackson, Kenneth T. "The New Age of Automobility," (optional) "Suburban Development between the Wars," and "The Baby Boom" and the Age of Subdivision." (required) Chapters 9, 10 and 13 in _Crabgrass Frontier: The Suburbanization of the United States_. New York, NY: Oxford University Press, 1985, pp. 157-171, 172-189 and 231-245. ISBN: 9780195036107.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q19))
+({{% resource_link ad01d347-b343-e7e8-e80c-3a50e210fa33 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Pettifer, Julian, and Nigel Turner. "The Car and Courtship." In _Automania: Man 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q20))
+({{% resource_link 68d03de2-a62b-14c0-7654-0c8bbb352d07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Witzel, Michael Karl. "Birthplace of the Hamburger," "Hamburger Architecture," "
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q21))
+({{% resource_link a447a1c4-81ba-fb6e-0888-bca49925bb29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ Pirsig, Robert. _Zen and the Art of Motorcycle Maintenance_. New York, NY: Banta
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q22))
+({{% resource_link b9fb4ebc-cb41-75b1-a9d7-69c263c64227 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +180,7 @@ Sharp, Lauriston. "Steel Axes for Stone-Age Australians." _Human Organization_ 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mites_272s03_q23))
+({{% resource_link b16219b9-5f1d-3930-760c-011cd3a54827 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
