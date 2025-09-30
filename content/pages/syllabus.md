@@ -20,7 +20,7 @@ Each session is either used as a lecture (discussion) or a lab, but which sessio
 Format
 ------
 
-The [Experimental Study Group](http://esg.mit.edu/) (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students James Rising (S.B. '05, Philosophy) and Amilio Aviles (S.B. '03, Aero-Astro) taught this seminar, loosely supervised by ESG faculty. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+The {{% resource_link "acad49c1-fb5d-49b3-aa49-43f6e8636971" "Experimental Study Group" %}} (ESG) is an alternative academic program that offers experimental, small group learning in the core freshmen subjects within a community-based setting. This course, as part of the ESG Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students James Rising (S.B. '05, Philosophy) and Amilio Aviles (S.B. '03, Aero-Astro) taught this seminar, loosely supervised by ESG faculty. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 Background
 ----------
